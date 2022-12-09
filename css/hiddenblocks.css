@@ -54,7 +54,10 @@ img.icon {
   height: 1em;
   width: auto;
 }
-
+/*formato de colores*/
+body {
+  background-color:#000000;
+}
 strong {
   color:#267cb9;
 }
