@@ -7,45 +7,10 @@ title: Research
 * [Upper and lower bounds on the Filling Radus](https://arxiv.org/pdf/2206.08032.pdf) (with L. Guijarro). Indiana University Mathematics Journal. *Forthcoming*.
    
 
+## Non-index publications
+* [Convergence of manifolds with totally bounded curvature](https://temat.es/monograficos/article/view/vol2-p75). TEMat Monográficos, 2 (2021): Proceedings of the 3rd BYMAT Conference. 2, pp. 75-78. TEMat, 28/08/2021.
+* [Puntos en figuras convexas: el caso del hexágono regular](https://temat.es/articulo/2018-p31). TEMat, 2 (2018). 2, pp. 31-44. TEMat, 11/07/2018.
 
-## Working papers
-<ul>
-    
-    <li>Automatic Locally Robust Estimation with Generated Regressors (with J.C. Escanciano).
-        <input type="checkbox" class="abstractcheckbox" id="wp2"/>
-        <label for="wp2"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label>
-        <div class="draftbotton"><a href="files/wp/LRGenerated.pdf"><img src="files/icons/download_pdf.png" class="icon"> Draft</a></div>
-        <div class="abstractdiv">
-        <p class="abstractp"><b>Abstract:</b> Many economic and causal parameters of interest depend on generated regressors, including
-                structural parameters in models with endogenous variables estimated by control functions and in models with sample selection. 
-                Inference with generated regressors is complicated by the very complex expression for influence functions and asymptotic variances. 
-                To address this problem, we propose automatic Locally Robust/debiased GMM estimators in a general setting with generated regressors. 
-                Importantly, we allow for the generated regressors to be generated from machine learners, such as Random Forest, Neural Nets,
-                Boosting, and many others. We use our results to construct novel Doubly Robust estimators for the Counterfactural Average Structural Function 
-                and Average Partial Effects in models with endogeneity and sample selection, respectively. </p>
-    </div>
-    </li> 
-    
-    <li>Identification and information in models parametrized by a Banach space.
-        <input type="checkbox" class="abstractcheckbox" id="wp3"/>
-        <label for="wp3"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label> 
-        <div class="draftbotton"><a href="files/wp/II_Banach.pdf"><img src="files/icons/download_pdf.png" class="icon"> Draft</a></div>
-        <div class="abstractdiv">
-        <p class="abstractp"><b>Abstract:</b> This paper generalizes Escanciano (2021)’s identification result and
-        Van Der Vaart (1991)’s information result to models parametrized by a
-        Banach space. It provides a general framework to study identification
-        and its regularity (regular if the Fisher information is positive, irregular
-        if it is zero) for a wider range of problems. In particular, this paper
-        argues that non-parametric estimation of (a) the mean of a known
-        transformation and (b) the density at a point naturally give raise to a
-        Banach tangent space. Using the extended framework, the paper shows
-        that Fisher Information for estimation of the mean of a transformation
-        is zero if the transformation is not square-integrable. Information for
-        estimation of the density at a point is zero if one considers an absolutely
-        continuous (Lebesgue) density.   </p>
-    </div>
-    </li> 
-</ul>   
 
 ## Work in progress
 * Cuantification of deviation in aircfrat trajectories.
