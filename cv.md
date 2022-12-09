@@ -17,7 +17,8 @@ You can find my CV in PDF [here](files/cv_Telmo_Perez.pdf).
 ### Honors and Scholarships
 * FPI Scholarship, Ministerio de Ciencia e Innovación (2019-2023).
 * FPI-UAM Scholarship, Universidad Autónoma de Madrid (2018-2019).
-* Master Studies Grant (2018).
+* Master Studies Grant (2017-2018).
+* Jae Intro Grant, ICMAT (2017).
 * Collaboration Grant, Ministerio de Ciencia e Innovación (2017-2018).
 * Undergraduate Excellence Grant (2013-2014).  
 
