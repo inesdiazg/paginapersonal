@@ -14,3 +14,4 @@ title: Research
 
 ## Work in progress
 * Cuantification of deviation in aircfrat trajectories.
+* Urysohn width and collapse.
