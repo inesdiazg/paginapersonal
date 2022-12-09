@@ -4,7 +4,7 @@ title: Research
 ---
 
 ## Publications
-* [Upper and lower bounds on the Filling Radus](https://arxiv.org/pdf/2206.08032.pdf) (with L. Guijarro). Indiana University Mathematics Journal. *Forthcoming*.
+* [Upper and lower bounds on the Filling Radus](https://arxiv.org/pdf/2206.08032.pdf) (with [L. Guijarro](https://matematicas.uam.es/~luis.guijarro/)). Indiana University Mathematics Journal. *Forthcoming*.
    
 
 ## Non-index publications
