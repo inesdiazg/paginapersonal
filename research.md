@@ -48,4 +48,4 @@ title: Research
 </ul>   
 
 ## Work in progress
-* Local identification and consistent estimation.
+* Cuantification of deviation in aircfrat trajectories.
