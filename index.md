@@ -10,6 +10,8 @@ I am a PhD Candidate in Mathematics at [Maths Department](https://verso.mat.uam.
 
 I work on collapse of sequence of Riemannian manifolds with sectional curvature totally bounded and the geometry of the space of the bounded functions of a compact Riemannian manifold.
 
+Moreover, I have interest in Optimal Transport applied to goemetric problems and in Topological Data Analysis, a new and promissing field of data analysis.
+
 ## Contact details:
 * **Email**: manuel.mellado@uam.es <a href = "mailto: manuel.mellado@uam.es">(Send Email)</a>
 * Office 17-413.   
