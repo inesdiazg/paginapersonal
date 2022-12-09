@@ -64,3 +64,6 @@ strong {
 a {
   color:#ff0000;
 }
+a:hover {
+  color: #00ff00;
+}
