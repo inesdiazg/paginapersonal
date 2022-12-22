@@ -4,7 +4,8 @@ title: Talks and conferences
 ---
 
 ## International talks
-* [Upper and lower bounds on the Filling Radus](https://arxiv.org/pdf/2206.08032.pdf) (with [L. Guijarro](https://matematicas.uam.es/~luis.guijarro/)). Indiana University Mathematics Journal. *Forthcoming*.
+* [Filling radius and Kuratowski embedding](https://kantorovich.org/event/2022-optimal-transport-summer-school/) given at PIMS-IFDS-NSF Summer School on Optimal Transport in Seattle in June, 2022.
+* [Convergence of manifolds with totally bounded curvature] given at 3rd BYMAT Conference: Bring Young Mathematicians Together, which took place online, hosted by the Universitat Politècnica de València on the 1st-3rd December 2020.
    
 
 ## National talks
