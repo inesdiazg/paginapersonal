@@ -15,3 +15,4 @@ title: Research
 ## Work in progress
 * Cuantification of deviation in aircfrat trajectories.
 * Urysohn width and collapse.
+* The *Rival* Coffee Shop and the Generalized Signed Wasserstein Distance.
