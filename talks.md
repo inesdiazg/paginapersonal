@@ -16,3 +16,6 @@ title: Talks and conferences
 ## Most relevant conference (attendance)
 * [Thematic Trimester: Geometry and Statistics in Data Science](https://indico.math.cnrs.fr/event/6590/) which took place at IHP of Paris on the 5th September to 9th December, 2022.
 * [VSU CBMS Conference on Topological Data Analysis and Persistence Theory](https://blog.valdosta.edu/vsu-cbms-conference/) which took place at Valdosta State University in Valdosta, EEUU, on the 8th-12th August, 2022.
+* [Bridging applied and quantitative topology](https://sites.google.com/view/applied-quantitative-topology/?pli=1) which took place online, hosted by Applied Algebraic Topology Research Network Vietoris-Rips (AATRN VR) on the 9th-13th May, 2022.
+* [Workshop on manifolds with symmetry](https://www.igt.uni-stuttgart.de/workshop-2022/) which took place on the University of Stuttgart, Germany, on 28th-20th March, 2022.
+* [Symmetry and Shape](http://xtsunxet.usc.es/symmetry2022/) which took place at Universidad de Santiago de Compostela during the editions of 2019 and 2021.
