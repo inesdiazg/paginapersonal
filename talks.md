@@ -5,7 +5,7 @@ title: Talks and conferences
 
 ## International talks
 * [Filling radius and Kuratowski embedding](https://kantorovich.org/event/2022-optimal-transport-summer-school/) given at PIMS-IFDS-NSF Summer School on Optimal Transport in Seattle in June, 2022.
-* [Convergence of manifolds with totally bounded curvature] given at 3rd BYMAT Conference: Bring Young Mathematicians Together, which took place online, hosted by the Universitat Politècnica de València on the 1st-3rd December 2020.
+* [Convergence of manifolds with totally bounded curvature] (https://temat.es/monograficos/article/view/vol2-p75) given at 3rd BYMAT Conference: Bring Young Mathematicians Together, which took place online, hosted by the Universitat Politècnica de València on the 1st-3rd December 2020.
    
 
 ## National talks
