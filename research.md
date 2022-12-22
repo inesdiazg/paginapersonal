@@ -14,5 +14,6 @@ title: Research
 
 ## Work in progress
 * Cuantification of deviation in aircfrat trajectories (TDA).
+* Vietoris-Rips and submersions (Metric Geometry and TDA).
 * Urysohn width and collapse (Metric Geometry).
 * The *Rival* Coffee Shop and the Generalized Signed Wasserstein Distance (Optimal Transport).
