@@ -20,4 +20,5 @@ title: Talks and conferences
 * [Workshop on manifolds with symmetry](https://www.igt.uni-stuttgart.de/workshop-2022/) which took place on the University of Stuttgart, Germany, on 28th-20th March, 2022.
 * [Symmetry and Shape](http://xtsunxet.usc.es/symmetry2022/) which took place at Universidad de Santiago de Compostela during the editions of 2019 and 2021.
 * [Workshop on curvature and global shape](https://www.uni-muenster.de/Diffgeo/cgs_2023/index.html) which took place at WWU Münster, Germany, on the 2019 and 2021 editions.
+* [International School on Extrinsic Curvature Flows](https://indico.ictp.it/event/8314/) which took place at ICTP, Trieste, Italy, on 4th-15th June, 2018.
 
