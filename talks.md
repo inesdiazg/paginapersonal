@@ -9,8 +9,8 @@ title: Talks and conferences
    
 
 ## National talks
-* [Convergence of manifolds with totally bounded curvature](https://temat.es/monograficos/article/view/vol2-p75). TEMat Monográficos, 2 (2021): Proceedings of the 3rd BYMAT Conference. 2, pp. 75-78. TEMat, 28/08/2021.
-* [Puntos en figuras convexas: el caso del hexágono regular](https://temat.es/articulo/2018-p31). TEMat, 2 (2018). 2, pp. 31-44. TEMat, 11/07/2018.
+* [Convergencia de variedades con curvatura totalmente acotada](https://www.ugr.es/~reag/taller2021/) given at Taller de Jóvenes Investigadores de la REAG 2021, which took place at Instituto de Matemáticas de la Universidad de Granada (IMAG) on the 18th-19th November 2021.
+* [Convergencia de variedades con curvatura totalmente acotada]() given at Workshop of Young Researchers in Mathematics (2020-2021 academic year), which took place at School of Mathematics, Universidad Complutense de Madrid (UCM) on the 21st-23th September 2020.
 
 
 ## Most relevant conference (attendance)
