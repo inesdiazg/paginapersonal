@@ -2,8 +2,8 @@
 layout: default
 title: CV
 ---
-## Full CV
-You can find my CV in PDF [here](files/cv_Telmo_Perez.pdf).
+%## Full CV
+%You can find my CV in PDF [here](files/cv_Telmo_Perez.pdf).
 
 ## Short CV
 
