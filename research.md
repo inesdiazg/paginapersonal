@@ -13,6 +13,6 @@ title: Research
 
 
 ## Work in progress
-* Cuantification of deviation in aircfrat trajectories.
-* Urysohn width and collapse.
-* The *Rival* Coffee Shop and the Generalized Signed Wasserstein Distance.
+* Cuantification of deviation in aircfrat trajectories (TDA).
+* Urysohn width and collapse (Metric Geometry).
+* The *Rival* Coffee Shop and the Generalized Signed Wasserstein Distance (Optimal Transport).
