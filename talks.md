@@ -19,3 +19,5 @@ title: Talks and conferences
 * [Bridging applied and quantitative topology](https://sites.google.com/view/applied-quantitative-topology/?pli=1) which took place online, hosted by Applied Algebraic Topology Research Network Vietoris-Rips (AATRN VR) on the 9th-13th May, 2022.
 * [Workshop on manifolds with symmetry](https://www.igt.uni-stuttgart.de/workshop-2022/) which took place on the University of Stuttgart, Germany, on 28th-20th March, 2022.
 * [Symmetry and Shape](http://xtsunxet.usc.es/symmetry2022/) which took place at Universidad de Santiago de Compostela during the editions of 2019 and 2021.
+* [Workshop on curvature and global shape](https://www.uni-muenster.de/Diffgeo/cgs_2023/index.html) which took place at WWU Münster, Germany, on the 2019 and 2021 editions.
+
