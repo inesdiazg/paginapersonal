@@ -17,3 +17,4 @@ title: Research
 * Vietoris-Rips and submersions (Metric Geometry and TDA).
 * Urysohn width and collapse (Metric Geometry).
 * The *Rival* Coffee Shop and the Generalized Signed Wasserstein Distance (Optimal Transport).
+* Reach of manifolds into its p-Wasserstein space (Optimal Transport and Metric Geometry).
