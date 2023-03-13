@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Welcome to my personal page!
-I am a PhD Candidate in Mathematics at [Maths Department](https://verso.mat.uam.es/web/index.php/es/) in [Universidad Autónoma de Madrid](http://www.uam.es)
+I am a PhD Candidate in Mathematics (my advisor is [Luis Guijarro](https://verso.mat.uam.es/~luis.guijarro/index-esp.html)) at [Maths Department](https://verso.mat.uam.es/web/index.php/es/) in [Universidad Autónoma de Madrid](http://www.uam.es)
 
 **Research interests:** Metric Geometry. Optimal Transport. Applied Algebraic Topology. TDA (Topological Data Analysis). 
 
