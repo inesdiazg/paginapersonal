@@ -9,6 +9,8 @@ title: Talks and conferences
    
 
 ## National talks and seminars
+* [Topological Data Analysis (TDA) and air traffic](https://www.icmat.es/es/actividades/coloquios/coloquio-landing/?ID=2004) given at Junior Coloquium of Mathematics (ICMAT-UAM-UC3M-UCM), which took place at ICAM on the 15th February 2023.
+* [Upper and lower bounds on the filling radius](https://arxiv.org/abs/2206.08032) given at VI Congreso de jóvenes de la RSME 2022, which took place at Universidad de León on the 6th-10th February 2023.
 * [Convergencia de variedades con curvatura totalmente acotada](https://www.ugr.es/~reag/taller2021/) given at Taller de Jóvenes Investigadores de la REAG 2021, which took place at Instituto de Matemáticas de la Universidad de Granada (IMAG) on the 18th-19th November 2021.
 * [Convergencia de variedades con curvatura totalmente acotada]() given at Workshop of Young Researchers in Mathematics (2020-2021 academic year), which took place at School of Mathematics, Universidad Complutense de Madrid (UCM) on the 21st-23th September 2020.
 
