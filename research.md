@@ -6,6 +6,7 @@ title: Research
 ## Publications
 * [Upper and lower bounds on the Filling Radus](https://arxiv.org/pdf/2206.08032.pdf) (with [L. Guijarro](https://matematicas.uam.es/~luis.guijarro/)). Indiana University Mathematics Journal. *Forthcoming*.
 * [The Rival Coffee Shop Problem](https://arxiv.org/abs/2304.04535) (with Javier Casado). *Preprint*.
+* [Topological Data Analysis in ATM: the shape of big flight data sets](https://arxiv.org/abs/2304.08906) (with [L. Guijarro](https://matematicas.uam.es/~luis.guijarro/), [Rosa María Arnaldo Valdés](https://www.upm.es/observatorio/vi/index.jsp?pageac=investigador.jsp&idInvestigador=7789) and [Fernando Gómez Comendador](https://www.upm.es/observatorio/vi/index.jsp?pageac=investigador.jsp&idInvestigador=5340)). *Preprint*
    
 
 ## Non-index publications
@@ -14,8 +15,7 @@ title: Research
 
 
 ## Work in progress
-* Cuantification of deviation in aircfrat trajectories (TDA).
-* Sociology understanding of temporal series (TDA).
+* Sociological understanding of temporal series (TDA).
 * Vietoris-Rips and submersions (Metric Geometry and TDA).
 * Urysohn width and collapse (Metric Geometry).
 * Reach of manifolds into its p-Wasserstein space (Optimal Transport and Metric Geometry).
