@@ -16,6 +16,7 @@ title: Research
 
 ## Work in progress
 * Sociological understanding of temporal series (TDA).
+* Electoral processes (TDA).
 * Vietoris-Rips and submersions (Metric Geometry and TDA).
 * Urysohn width and collapse (Metric Geometry).
 * Reach of manifolds into its p-Wasserstein space (Optimal Transport and Metric Geometry).
