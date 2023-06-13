@@ -7,7 +7,7 @@ title: Talks and conferences
 * [Topological Data Analysis (TDA) on Air Traffic Management](https://arxiv.org/abs/2304.08906) given at [GTDAML 2023](https://gtdaml.wixsite.com/2023) in Boston during 8th-11th June, 2023.
 * [Filling radius and reach of isometrically embedded metric spaces](https://arxiv.org/abs/2206.08032) given at the Geometry Seminar of the Math Department of the Durham University (UK) on the 11th May 2023.
 * [Upper and lower bounds on the filling radius](https://arxiv.org/abs/2206.08032) given at the Algebraic Systems Biology Seminar at the Mathematical Institute of Oxford University on the 4th May 2023.
-* [Filling radius and Kuratowski embedding](https://kantorovich.org/event/2022-optimal-transport-summer-school/) given at PIMS-IFDS-NSF Summer School on Optimal Transport in Seattle in June, 2022.
+* [Filling radius and Kuratowski embedding](https://kantorovich.org/event/2022-optimal-transport-summer-school/) given at [PIMS-IFDS-NSF Summer School on Optimal Transport](https://kantorovich.org/event/2022-optimal-transport-summer-school/) in Seattle in June, 2022.
 * [Convergence of manifolds with totally bounded curvature](https://temat.es/monograficos/article/view/vol2-p75) given at 3rd BYMAT Conference: Bring Young Mathematicians Together, which took place online, hosted by the Universitat Politècnica de València on the 1st-3rd December 2020.
    
 
