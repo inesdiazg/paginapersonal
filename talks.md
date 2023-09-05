@@ -19,7 +19,7 @@ title: Talks and conferences
 
 
 ## International poster presentations
-*[Topological Data Analysis (TDA) on ATM](https://arxiv.org/abs/2304.08906) given at [TDA week 2023](https://sites.google.com/view/tdaweek2023/home?authuser=0) in Kyoto, Japan, during 31st July - 4th August 2023.
+* [Topological Data Analysis (TDA) on ATM](https://arxiv.org/abs/2304.08906) given at [TDA week 2023](https://sites.google.com/view/tdaweek2023/home?authuser=0) in Kyoto, Japan, during 31st July - 4th August 2023.
 
 
 ## Most relevant conference (attendance)
