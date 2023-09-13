@@ -4,7 +4,7 @@ title: Talks and conferences
 ---
 
 ## International talks and seminars 
-* [Filling radius and the reach of isometrically embedded metric spaces](https://sites.google.com/ciencias.unam.mx/moderntechniquesriemanniangeom/i-n-i-c-i-o) given at [Modern Techniques in Riemannian Geometry 2023] (https://sites.google.com/ciencias.unam.mx/moderntechniquesriemanniangeom/h-o-m-e?authuser=0) in Ciudad de México during 24th-27th July, 2023.
+* [Filling radius and the reach of isometrically embedded metric spaces](https://sites.google.com/ciencias.unam.mx/moderntechniquesriemanniangeom/i-n-i-c-i-o) given at [Modern Techniques in Riemannian Geometry 2023](https://sites.google.com/ciencias.unam.mx/moderntechniquesriemanniangeom/h-o-m-e?authuser=0) in Ciudad de México during 24th-27th July, 2023.
 * [Topological Data Analysis (TDA) on Air Traffic Management](https://arxiv.org/abs/2304.08906) given at [GTDAML 2023](https://gtdaml.wixsite.com/2023) in Boston during 8th-11th June, 2023.
 * [Filling radius and reach of isometrically embedded metric spaces](https://arxiv.org/abs/2206.08032) given at the Geometry Seminar of the Math Department of the Durham University (UK) on the 11th May 2023.
 * [Upper and lower bounds on the filling radius](https://arxiv.org/abs/2206.08032) given at the Algebraic Systems Biology Seminar at the Mathematical Institute of Oxford University on the 4th May 2023.
