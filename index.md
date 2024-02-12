@@ -14,6 +14,6 @@ Moreover, I have interest in Optimal Transport applied to goemetric problems and
 
 ## Contact details:
 * **Email**: manuel.mellado@cunef.edu <a href = "mailto: manuel.mellado@cunef.edu">(Send Email)</a>
-* Office 17-413.   
-  Department of Mathematics, Universidad Autónoma de Madrid.   
-  C/ Tomás y Valiente 7, Cantoblanco, Madrid, 28049, Spain.
+* Office E-6.11.   
+  Department of Quantitative Methods, CUNEF.   
+  C/ Leonardo Prieto Castro 2, 28040, Madrid, Spain.
