@@ -15,7 +15,7 @@ navigation:
     url: teaching
   - name: TDA SEMINAR
     url: tdaseminar
-  - cv: CV
+  - name: CV
     url: cv
 
 
