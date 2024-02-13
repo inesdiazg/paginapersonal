@@ -10,6 +10,8 @@ Born in Madrid in 1995, I pursued my Bachelor's degree in Mathematics from 2013 
 
 During my PhD, my research initially focused on the collapse of sequences of Riemannian manifolds with totally bounded sectional curvature and intermediate k-Ricci curvature. Subsequently, I shifted my focus to studying Gromov's invariant Filling Radius and the reach (in the sense of Federer) of isometric embeddings into Wasserstein-type spaces. Additionally, I explored applications of the Wasserstein distance, particularly in addressing the problem of uniformly distributing points on a compact manifold.
 
+[html](files/google3f49aa58b4365fba.html)
+
 Throughout this period, I also delved into Topological Data Analysis (TDA), engaging in both theoretical and applied research in this field. TDA has now become a cornerstone of my research endeavors.
 
 **Research interests:**  TDA (Topological Data Analysis). Metric Geometry. Optimal Transport.
