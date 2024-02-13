@@ -6,6 +6,11 @@
   opacity: 0;   
 }
 
+header {
+    position: relative; /* Cambia la posición del header a relativa */
+}
+
+
 .abstractdiv{
   display: none;
   width: 92%;
