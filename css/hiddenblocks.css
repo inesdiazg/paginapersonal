@@ -23,6 +23,11 @@ li {
   margin-bottom:1.1em;
 }
 
+
+header {
+  overflow:scroll;
+}
+
 p.abstractp {
   text-align: justify;
   padding: 0.2em;
