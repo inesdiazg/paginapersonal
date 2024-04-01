@@ -5,9 +5,10 @@ title: Research
 
 ## Publications
 * [Upper and lower bounds on the Filling Radus](https://arxiv.org/pdf/2206.08032.pdf) (with [L. Guijarro](https://matematicas.uam.es/~luis.guijarro/), 2022). Indiana University Mathematics Journal. *Forthcoming*.
+* [The Rival Coffee Shop Problem](https://arxiv.org/abs/2304.04535) (with Javier Casado, 2024). ESAIM: Control, Optimisation and Calculus of Variations. *Forthcoming*.
+ 
 
 ## Pre-prints
-* [The Rival Coffee Shop Problem](https://arxiv.org/abs/2304.04535) (with Javier Casado, 2023). *Preprint*.
 * [Topological Data Analysis in ATM: the shape of big flight data sets](https://arxiv.org/abs/2304.08906) (with [L. Guijarro](https://matematicas.uam.es/~luis.guijarro/), [Rosa María Arnaldo Valdés](https://www.upm.es/observatorio/vi/index.jsp?pageac=investigador.jsp&idInvestigador=7789) and [Fernando Gómez Comendador](https://www.upm.es/observatorio/vi/index.jsp?pageac=investigador.jsp&idInvestigador=5340), 2023). *Preprint*
 * [On the reach of isometric embeddings into Wasserstein type spaces](https://arxiv.org/abs/2307.01051) (with Javier Casado and [Jaime Santos-Rodríguez](http://jaime-santos.github.io/math/), 2023). *Preprint*
 * The evolution of political ideology axes  in the United States, 1984-2020 (with [Fernando Galaz-García](https://www.durham.ac.uk/staff/fernando-galaz-garcia/), [Sergio Galaz-García](https://sergiogalazgarcia.com/) and [Telmo Pérez-Izquierdo](https://telmoperiz.github.io/personalpage/), 2023). *Forthcoming draft*
