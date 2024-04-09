@@ -4,11 +4,11 @@ title: Research
 ---
 
 ## Publications
-* [The Rival Coffee Shop Problem](https://arxiv.org/abs/2304.04535) (with Manuel Cuerno, 2024). ESAIM: Control, Optimisation and Calculus of Variations. *Forthcoming*.
+* [The Rival Coffee Shop Problem](https://arxiv.org/abs/2304.04535) (with [Manuel Cuerno](https://manuelcuerno.github.io/personalpage/), 2024). ESAIM: Control, Optimisation and Calculus of Variations. *Forthcoming*.
  
 
 ## Pre-prints
-* [On the reach of isometric embeddings into Wasserstein type spaces](https://arxiv.org/abs/2307.01051) (with Manuel Cuerno and [Jaime Santos-Rodríguez](http://jaime-santos.github.io/math/), 2023). *Preprint*
+* [On the reach of isometric embeddings into Wasserstein type spaces](https://arxiv.org/abs/2307.01051) (with [Manuel Cuerno](https://manuelcuerno.github.io/personalpage/) and [Jaime Santos-Rodríguez](http://jaime-santos.github.io/math/), 2023). *Preprint*
 
 
 ## Non-index publications
