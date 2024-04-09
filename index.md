@@ -4,18 +4,18 @@ title: Home
 ---
 
 # Welcome to my personal page!
-PhD in Mathematics (advisor: [Luis Guijarro](https://verso.mat.uam.es/~luis.guijarro/index-esp.html)) at [Maths Department](https://verso.mat.uam.es/web/index.php/es/) in [Universidad Autónoma de Madrid](http://www.uam.es)
+Studying for a PhD in Mathematics (advisor: [Luis Guijarro](https://verso.mat.uam.es/~luis.guijarro/index-esp.html)) at [Maths Department](https://verso.mat.uam.es/web/index.php/es/) in [Universidad Autónoma de Madrid](http://www.uam.es)
 
-Born in Madrid in 1995, I pursued my Bachelor's degree in Mathematics from 2013 to 2017, followed by a Master's degree from 2017 to 2018 at the Universidad Autónoma de Madrid.
+Born in Ponferrada in 1998, I pursued my Bachelor's degree in Mathematics from 2016 to 2020, followed by a Master's degree from 2020 to 2021 at the Universidad Autónoma de Madrid.
 
-During my PhD, my research initially focused on the collapse of sequences of Riemannian manifolds with totally bounded sectional curvature and intermediate k-Ricci curvature. Subsequently, I shifted my focus to studying Gromov's invariant Filling Radius and the reach (in the sense of Federer) of isometric embeddings into Wasserstein-type spaces. Additionally, I explored applications of the Wasserstein distance, particularly in addressing the problem of uniformly distributing points on a compact manifold.
+During my PhD, my research initially focused on manifolds without conjugate points and Riemannian submersions. Subsequently, I shifted my focus to studying the reach (in the sense of Federer) of isometric embeddings into Wasserstein-type spaces. Additionally, I explored applications of the Wasserstein distance, particularly in addressing the problem of uniformly distributing points on a compact manifold.
 
-Throughout this period, I also delved into Topological Data Analysis (TDA), engaging in both theoretical and applied research in this field. TDA has now become a cornerstone of my research endeavors.
+Throughout this period, I also delved into Topological Data Analysis (TDA).
 
-**Research interests:**  TDA (Topological Data Analysis). Metric Geometry. Optimal Transport.
+**Research interests:**  Riemannian/Metric Geometry. Optimal Transport. TDA (Topological Data Analysis).
 
 ## Contact details:
-* **Email**: manuel.mellado@cunef.edu <a href = "mailto: manuel.mellado@cunef.edu">(Send Email)</a>
-* Office E-6.11.   
-  Department of Quantitative Methods, CUNEF.   
-  C/ Leonardo Prieto Castro 2, 28040, Madrid, Spain.
+* **Email**: javier.casadoa@uam.es <a href = "mailto: javier.casadoa@uam.es">(Send Email)</a>
+* Office 413.   
+  Department of Mathematics, UAM.   
+  C/ Francisco Tomás y Valiente, 7 Facultad de Ciencias, módulo 17, 28049 Madrid
