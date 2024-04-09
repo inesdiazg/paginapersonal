@@ -10,9 +10,9 @@ Born in Ponferrada in 1998, I pursued my Bachelor's degree in Mathematics from 2
 
 During my PhD, my research initially focused on manifolds without conjugate points and Riemannian submersions. Subsequently, I shifted my focus to studying the reach (in the sense of Federer) of isometric embeddings into Wasserstein-type spaces. Additionally, I explored applications of the Wasserstein distance, particularly in addressing the problem of uniformly distributing points on a compact manifold.
 
-Throughout this period, I also delved into Topological Data Analysis (TDA).
+Throughout this period, I also delved into Topological Data Analysis.
 
-**Research interests:**  Riemannian/Metric Geometry. Optimal Transport. TDA (Topological Data Analysis).
+**Research interests:**  Riemannian/Metric Geometry. Optimal Transport. Topological Data Analysis.
 
 ## Contact details:
 * **Email**: javier.casadoa@uam.es <a href = "mailto: javier.casadoa@uam.es">(Send Email)</a>
