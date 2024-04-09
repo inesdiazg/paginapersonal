@@ -45,7 +45,7 @@ div.abstractbotton:hover {font-weight:bold;}
 div.draftbotton {
   cursor: pointer;
   display: inline-block;
-  color: #b11226;
+  color: #779777;
 }
 
 div.draftbotton:hover {font-weight:bold;}
@@ -61,13 +61,13 @@ img.icon {
 }
 /*formato de colores*/
 body {
-  background-color:#fffaef;
+  background-color:#dee2d0;
 }
 strong {
-  color:#b11226;
+  color:#779777;
 }
 a {
-  color:#b11226;
+  color:#779777;
 }
 a:hover {
   color: #641b30;
