@@ -45,7 +45,7 @@ div.abstractbotton:hover {font-weight:bold;}
 div.draftbotton {
   cursor: pointer;
   display: inline-block;
-  color: #4a5e4a;
+  color: #5A735A;
 }
 
 div.draftbotton:hover {font-weight:bold;}
@@ -64,10 +64,10 @@ body {
   background-color:#fdfff8;
 }
 strong {
-  color:#4a5e4a;
+  color:#5A735A;
 }
 a {
-  color:#4a5e4a;
+  color:#5A735A;
 }
 a:hover {
   color: #641b30;
